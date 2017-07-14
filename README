@@ -1,1 +1,4 @@
-hello world
+Requirement:
+	gcc 5.4 or +
+	Knowledge in C language
+
