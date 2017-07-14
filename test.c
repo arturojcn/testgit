@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "test.h" 
 
-int main(){
+
+int main(int arg, char *argc[]){
 
     printf("hello world");
 
