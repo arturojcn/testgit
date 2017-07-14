@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Requerimeintos:
 	* GCC 5.4 o superior
 	* Conocimiento en lenguaje C
 	* Conocimientos en versionado de codigo
+=======
+Requirement:
+	gcc 5.4 or +
+	Knowledge in C language
+
+>>>>>>> test
